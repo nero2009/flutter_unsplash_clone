@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/imagelist_screen.dart';
+import 'screens/imagelist.dart';
 
 class App extends StatelessWidget {
   Widget build(context) {
